@@ -15,11 +15,11 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farooq-2113" alt="profile vist counter" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farooq2113" alt="profile vist counter" /> </p>  
 
-![Farooq's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farooq-2113&theme=2077)
+![Farooq's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farooq2113&theme=2077)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farooq-2113&theme=2077)](https://github.com/farooq-2113/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farooq2113&theme=2077)](https://github.com/farooq2113/github-readme-stats)
 
 
 Here are some ideas to get you started:
